@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Akuzwe Sheja Edwige</h1>
-<h3 align="center">A passionate dev || UI/UX designer || content writer from Rwanda</h3>
+<h3 align="center">A passionate dev || robotics enthusiast || content writer from Rwanda</h3>
 
-- 🌱 I’m currently learning **Zephyr RTOS, Docker, and Makefile.**
+- 🌱 I’m currently learning **Zephyr RTOS and Docker**
 
 - 👨‍💻 All of my projects are available at [https://edwige-portolio.vercel.app/](https://edwige-portolio.vercel.app/)
 
