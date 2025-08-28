@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Zephyr RTOS and Docker**
 
-- 👨‍💻 All of my projects are available at [https://edwige-portolio.vercel.app/](https://edwige-portolio.vercel.app/)
+- 👨‍💻 My portolio is available at [https://edwige-portolio.vercel.app/](https://edwige-portolio.vercel.app/)
 
 - 💬 Ask me about **Embedded systems, frontend frameworks, algorithms, books, ...**
 
-- 📫 How to reach me **edwigeakuzwe6@gmail.com**
+- 📫 You can reach me through **edwigeakuzwe6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
