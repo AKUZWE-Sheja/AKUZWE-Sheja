@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Akuzwe Sheja Edwige</h1>
+<h1 align="center">Hi 👋🏾, I'm Edwige</h1>
 <h3 align="center">A passionate dev || robotics enthusiast || content writer from Rwanda</h3>
 
 - 🌱 I’m currently learning **Zephyr RTOS and Docker**
