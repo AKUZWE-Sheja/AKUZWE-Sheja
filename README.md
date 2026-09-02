@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋🏾, I'm Edwige</h1>
-<h3 align="center">A passionate dev || robotics enthusiast || content writer from Rwanda</h3>
+<h3 align="center">Embedded Systems & Hardware-Software Co-Design || Content Writing</h3>
 
-- 🌱 I’m currently learning **Zephyr RTOS and Docker**
+- 🎓 Studying **Electrical & Computer Engineering at The University of Hong Kong (HKU)**
 
-- 👨‍💻 My portolio is available at [https://edwige-portolio.vercel.app/](https://edwige-portolio.vercel.app/)
+- 🛠️ Building at the intersection of **firmware, low-level systems, and physical computing**
 
-- 💬 Ask me about **Embedded systems, frontend frameworks, algorithms, books, ...**
+- 🔬 Fascinated by **TinyML on the edge and in-the-wild sensor fusion for urban environments**
 
-- 📫 You can reach me through **edwigeakuzwe6@gmail.com**
+- 📚 Grounding myself in **core engineering abstractions and systems programming**
+
+- 💻 Check out my previous work at [https://edwige-portfolio.vercel.app/](https://edwige-portolio.vercel.app/)
+
+- 💬 Ask me about **embedded systems, telemetry pipelines, full-stack tooling, or books**
+
+- 📫 Reach me at **edwigeakuzwe6@gmail.com** or **edwigeakuzwe6@connect.hku.hk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
