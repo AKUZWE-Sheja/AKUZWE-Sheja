@@ -27,7 +27,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akuzwe-sheja&show_icons=true&locale=en&layout=compact" alt="akuzwe-sheja" /></p>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuzwe-sheja&show_icons=true&locale=en&hide=prs,stars" alt="akuzwe-sheja" />
-</p>
